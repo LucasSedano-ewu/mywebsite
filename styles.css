@@ -1,0 +1,23 @@
+/* Diag */
+
+body{
+    background: #E0B0FF;
+  }
+  
+  /* Homepage */
+  
+  .home h1{
+    color: pink;
+  }
+  
+  /* Portfolio */
+  
+  .portfolio h1 {
+    color: greenyellow;
+  }
+  
+  /* Contact */
+  
+  .contact h1{
+    color: orange;
+  }

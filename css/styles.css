@@ -3,7 +3,7 @@
 /* Diag */
 
 body{
-    background: #E0B0FF;
+    background: #9B37FF;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Tanker-Regular';
@@ -12,7 +12,7 @@ body{
   /* Homepage */
   
   .home h1{
-    color: rgb(65, 0, 139);
+    color: #61ECFF;
   }
   
   /* Portfolio */

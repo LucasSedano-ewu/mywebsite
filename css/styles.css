@@ -71,6 +71,7 @@ body{
   
   .card h2 {
     margin-block-end: 0;
+    color: #61ECFF;
   }
   
   .card button {
@@ -79,4 +80,6 @@ body{
     border: 0.25rem solid black;
     font-size: 1rem;
     text-transform: uppercase;
+    font-family: 'Tanker-Regular';
+    background: #9B37FF;
   }

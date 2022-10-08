@@ -67,12 +67,10 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0 2rem 2rem;
-    color: #61ECFF;
   }
   
   .card h2 {
     margin-block-end: 0;
-    color: #61ECFF;
   }
   
   .card button {
@@ -83,4 +81,8 @@ body{
     text-transform: uppercase;
     font-family: 'Tanker-Regular';
     background: #9B37FF;
+  }
+
+  .card a {
+    color: #61ECFF;
   }
